@@ -1,3 +1,0 @@
-expat/expat/lib/xmltok_ns.o: \
- /home/trizzone52/esp/esp-idf/components/expat/expat/expat/lib/xmltok_ns.c
-/home/trizzone52/esp/esp-idf/components/expat/expat/expat/lib/xmltok_ns.c:
