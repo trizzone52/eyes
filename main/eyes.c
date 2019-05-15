@@ -15,6 +15,7 @@
 #include "xi2c.h"
 #include "fonts.h"
 #include "esp_spi_flash.h"
+#include "wifiPassword.h"
 
 #define DebugLED 2
 
